@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> </a>
-<img src="https://github.com/talhazi/talhazi/blob/main/x86-logo.png" alt="x86" width="40" height="30"/> </a>
+<img src="https://github.com/talhazi/talhazi/blob/main/x86-logo.png" alt="x86" width="40" height="35"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="40"/> </a> 
 </p>
