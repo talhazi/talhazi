@@ -1,7 +1,7 @@
 ### Hi there, I’m Tal 👋
  <img src=
 "https://github.com/talhazi/talhazi/blob/main/SUV4.gif" 
-         alt="GeeksforGeeks logo" 
+         alt="nice gif" 
          align="right">
 ## Software Engineering Student at Ben Gurion University.
 - 🔭 Currently working on new programming projects.
@@ -35,7 +35,11 @@
 
 <details>
     <summary>⚡ Most Used Languages</summary>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhazi&theme=tokyonight)
+ 
+  <img src=
+"https://github-readme-stats.vercel.app/api/top-langs/?username=talhazi&theme=tokyonight" 
+         alt="Most Used Languages" 
+         >
 </details>
 
 
