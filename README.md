@@ -3,7 +3,7 @@
 "https://github.com/talhazi/talhazi/blob/main/SUV4.gif" 
          alt="nice gif" 
          align="right">
-## Software Engineering Student at Ben Gurion University.
+## Computer Science Student at Ben Gurion University.
 - 🔭 Currently working on new programming projects.
 - 🌱 In free time, learning React and mobile apps building.
 - 👯 Always looking forward to enrich my programming and technical knowledge.
